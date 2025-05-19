@@ -26,18 +26,8 @@
 
 <p align="center">
   <img src="https://readmestats.999857.xyz/api/top-langs?username=Lax3n&theme=github_dark&layout=compact" width="45%" />
-  <img src="https://readmestats.999857.xyz/api/streak?username=Lax3n&theme=github_dark" width="45%" />
 </p>
 
----
-
-### 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://readmestats.999857.xyz/api/calendar?username=Lax3n&theme=github_dark" alt="Contribution calendar">
-</p>
-
----
 
 ### 🚀 Projects I'm proud of
 
@@ -58,7 +48,7 @@
 
 ### 📫 Let's connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ton-profil-si-tu-en-as-un)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexandre-s-aa786a2a3/)
 - 💌 DM-friendly on Discord: `lax3n` 
 
 ---
