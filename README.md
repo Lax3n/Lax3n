@@ -1,13 +1,29 @@
-<h1 align="center">Hi there 👋, I'm Alexandre</h1>
+<p align="center">
+  <a href="https://github.com/Lax3n">
+    <h1 align="center">Hi there 👋, I'm Alexandre</h1>
+
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.demolab.com/?lines=Student+in+Mathematics%2C+Economics+and+Computer+Science;&font=Fira%20Code&center=true&width=1080&height=45&color=1F6FEB&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexandre-s-aa786a2a3/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/XYFkbphujS" alt="Discord" title="Discord"><img width="64px" src="https://static.vecteezy.com/system/resources/previews/018/930/500/non_2x/discord-logo-discord-icon-transparent-free-png.png"/></a>
+</p>
+
+<br/>
+
+
+
 <p align="center">
   <img src="https://readmestats.999857.xyz/api?username=Lax3n&theme=github_dark&show_icons=true&count_private=true" alt="Lax3n's GitHub Stats" />
 </p>
-
----
-
-🎓 **Student in Mathematics, Economics and Computer Science**  
-💡 Passionate about algorithmic thinking, data modeling, and automation  
-🛠️ Currently building smart tools & bots using **Python**, **Rust**, and **MongoDB**  
 
 ---
 
@@ -28,13 +44,17 @@
   <img src="https://readmestats.999857.xyz/api/top-langs?username=Lax3n&theme=github_dark&layout=compact" width="45%" />
 </p>
 
-
 ### 🚀 Projects I'm proud of
 
-- 🔐 **Smart Proxy Auth System** — HTTP/S proxy with Rust, MongoDB, and caching  
-- 🤖 **Discord bot with Stripe & MongoDB integration** — monetized private tools  
-- 📈 **Statistical Forecasts** — ARIMA-based predictions on financial data (e.g., Nvidia stock)
-- 🛒 **Ultra-Fast Purchase System** — instant online buying flows using CSV, and custom caching logic
+- 🔐 **Smart Proxy Auth System** — HTTP/S proxy infra with Rust, Python & MongoDB, React front-end  
+- 🛒 **[MonetizeFast](https://monetizefa.st/)** — Ultra-fast Stripe + MongoDB buy system for monetized Discord tools  
+- 🛰 **[Proxyy.tech](https://proxyy.tech/)** — API-powered proxy generation & distribution platform  
+- 🧠 **Compression on MNIST** — 2D projection with PCA/t-SNE for image reconstruction & clustering  
+- 📊 **Operations Research Toolkit** — simplex, transport & flow optimization problems (Python)  
+- 🤖 **Discord Bots Suite** — Custom Discord bots for scraping & alerts (e.g., SNCF train status)  
+- 📆 **AppointmentExchange** — Automated bot to find and trade appointments (Python + Selenium)  
+- 📉 **SolanaTracker** — Live Solana wallet & price tracking with alerts  
+- 💥 **Armageddon** — Modular Python toolkit for network reconnaissance & diagnostics → Includes LAN scanning, DNS mapping, port analysis, IP geolocation & Discord bot alerts
 
 ---
 
@@ -45,10 +65,11 @@
 </p>
 
 ---
+
 ### 🧠 What I'm learning now
 
-- Reinforcement learning and algorithmic game theory  
-- Advanced system design with Rust & async APIs  
+- Reinforcement learning and algorithmic game theory
+- Advanced system design with Rust & async APIs
 - Modern frontend stacks (Framer Motion, shadcn/ui)
 
 ---
@@ -56,7 +77,7 @@
 ### 📫 Let's connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexandre-s-aa786a2a3/)
-- 💌 DM-friendly on Discord: `lax3n` 
+- 💌 DM-friendly on Discord: `lax3n`
 
 ---
 
