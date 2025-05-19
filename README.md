@@ -38,6 +38,13 @@
 
 ---
 
+### 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Lax3n/Lax3n/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
+---
 ### 🧠 What I'm learning now
 
 - Reinforcement learning and algorithmic game theory  
