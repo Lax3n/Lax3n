@@ -12,8 +12,6 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexandre-s-aa786a2a3/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/XYFkbphujS" alt="Discord" title="Discord"><img width="64px" src="https://static.vecteezy.com/system/resources/previews/018/930/500/non_2x/discord-logo-discord-icon-transparent-free-png.png"/></a>
 </p>
 
