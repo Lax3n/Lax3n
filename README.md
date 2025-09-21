@@ -74,7 +74,6 @@
 
 ### 📫 Let's connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/alexandre-s-aa786a2a3/)
 - 💌 DM-friendly on Discord: `lax3n`
 
 ---
