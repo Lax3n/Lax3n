@@ -1,81 +1,80 @@
 <p align="center">
   <a href="https://github.com/Lax3n">
-    <h1 align="center">Hi there 👋, I'm Alexandre</h1>
-
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I'm+Alexandre;Mathematics+Student+%7C+Engineer+%7C+Dev;Rust+%26+Python+Enthusiast;&font=Fira%20Code&center=true&width=1080&height=45&color=1F6FEB&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
 
+---
+
+### 🌐 Social
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Student+in+Mathematics%2C+Engineering;&font=Fira%20Code&center=true&width=1080&height=45&color=1F6FEB&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://discord.gg/XYFkbphujS" alt="Discord" title="Discord"><img width="64px" src="https://static.vecteezy.com/system/resources/previews/018/930/500/non_2x/discord-logo-discord-icon-transparent-free-png.png"/></a>
-</p>
-
-<br/>
-
-
-
-<p align="center">
-  <img src="https://readmestats.999857.xyz/api?username=Lax3n&theme=github_dark&show_icons=true&count_private=true" alt="Lax3n's GitHub Stats" />
+  <a href="https://discord.gg/XYFkbphujS" alt="Discord" title="Discord">
+    <img width="48px" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png"/>
+  </a>
 </p>
 
 ---
 
 ### 🔧 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
-![Rust](https://img.shields.io/badge/-Rust-333?style=flat&logo=rust)
-![Tokio](https://img.shields.io/badge/-Tokio-333?style=flat&logo=rust)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-![Azure](https://img.shields.io/badge/-azure-333?style=flat&logo=azure)
-
-
-
----
-
-### 📊 Stats & Insights
-
 <p align="center">
-  <img src="https://readmestats.999857.xyz/api/top-langs?username=Lax3n&theme=github_dark&layout=compact" width="45%" />
-</p>
-
-### 🚀 Projects I'm proud of
-
-- 🛰 **[Proxyy.tech](https://proxyy.tech/)** — Rust Proxies that's auto deploy new IPs with demands, enable cost reduction by 64% on Azure
-- 📊 **[Proxies Tester (Fork)](https://github.com/Vital-Proxies/proxy-tester/pull/5)** — Upgrade of a company based mesurement tools to calculate every latency during a proxies connexion (raw socket)
-- 💳 **Tual** — Enable Visa Virtual credit card creation (unlimited), with or without 3DS authorisation for the reselling space
-- 🧠 **Compression on MNIST** — 2D projection with PCA/t-SNE for image reconstruction & clustering
-- 🤖 **Discord Bots Suite** — Custom Discord bots for scraping & alerts (e.g., SNCF train status, WhatsApp scraping AI powered)  
-- 📆 **AppointmentExchange** — Automated bot to find and trade appointments (Python + Selenium)  
-- 💥 **Armageddon** — Modular Python toolkit for network reconnaissance & diagnostics → Includes LAN scanning, DNS mapping, port analysis, IP geolocation & Discord bot alerts
-
----
-
-### 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lax3n&theme=github_dark" width="45%" />
+  <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi" />
+  <img src="https://img.shields.io/badge/-Rust-333?style=flat&logo=rust" />
+  <img src="https://img.shields.io/badge/-Tokio-333?style=flat&logo=rust" />
+  <img src="https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoft-azure" />
 </p>
 
 ---
 
-### 🧠 What I'm learning now
+### 📊 GitHub Stats
 
-- Advanced system requests (wreq) with Rust & Fingerprinting 
-- Reverse engineering AntiBot systems as Datadome, CloudFlare 
+<p align="center">
+  <img src="https://readmestats.999857.xyz/api?username=Lax3n&theme=github_dark&show_icons=true&count_private=true" width="49%" />
+  <img src="https://readmestats.999857.xyz/api/top-langs?username=Lax3n&theme=github_dark&layout=compact" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lax3n&theme=github_dark" width="49%" />
+</p>
 
 ---
 
-### 📫 Let's connect!
-
-- 💌 DM-friendly on Discord: `lax3n`
+### ⭐ Repo Stats
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/github/stars/Lax3n?color=yellow&logo=star&logoColor=white&style=for-the-badge&label=Stars"/>
+  <img src="https://custom-icon-badges.demolab.com/github/followers/Lax3n?color=blue&logo=person-add&style=for-the-badge&label=Followers"/>
+</p>
 
 ---
+
+### 🚀 Featured Projects
+
+- 🛰 **[Proxyy.tech](https://proxyy.tech/)** — Rust-based Proxies auto-deploying IPs with demand → **-64% costs on Azure**
+- 📊 **[Proxy Tester (Fork)](https://github.com/Vital-Proxies/proxy-tester/pull/5)** — Latency measurement on raw sockets  
+- 💳 **Tual** — Virtual Visa Cards (with/without 3DS), unlimited for reselling  
+- 🧠 **[Compression on MNIST](https://github.com/Lax3n/CompressionDecompressionML)** — 2D projection with PCA/t-SNE for clustering
+- 🔄 **AWS Auto-Updater for AntiBot** — Automated update system deployed on AWS to continuously patch & upgrade an anti-bot script in production
+- 🤖 **Discord Bots Suite** — Scraping & alerts (SNCF train status, WhatsApp AI scraping with [Mistral AI](https://mistral.ai/))  
+- 📆 **AppointmentExchange** — Automated bot to find & swap restaurant appointments  
+- 💥 **Armageddon** — Modular Python toolkit: LAN scanning, DNS mapping, ports & IP geolocation
+
+---
+
+### 🧠 Learning Now
+
+- Advanced system requests in **Rust (`wreq`)** with TLS Fingerprinting  
+- Reverse engineering **AntiBot systems** (Datadome, Cloudflare)  
+- **Cloud-native automation** → Auto-updaters & CI/CD pipelines (AWS Lambda, Azure Functions)  
+- **High-performance networking** with Rust & Tokio (async proxies, caching, fingerprint-resilient requests)  
+- **FinTech APIs** → Virtual cards integration & 3DS flows  
+- **Applied Machine Learning** → Clustering & anomaly detection for security and performance monitoring  
+
+
+---
+
+### 📫 Contact
+- 💌 Discord: `lax3n`  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lax3n&label=Profile%20views&color=0e75b6&style=flat" alt="Lax3n" />
