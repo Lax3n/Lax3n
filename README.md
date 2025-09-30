@@ -58,7 +58,7 @@
 - 🔄 **AWS Auto-Updater for AntiBot** — Automated update system deployed on AWS to continuously patch & upgrade an anti-bot script in production
 - 🤖 **Discord Bots Suite** — Scraping & alerts (SNCF train status, WhatsApp AI scraping with [Mistral AI](https://mistral.ai/))  
 - 📆 **AppointmentExchange** — Automated bot to find & swap restaurant appointments  
-- 💥 **Armageddon** — Modular Python toolkit: LAN scanning, DNS mapping, ports & IP geolocation
+- 💥 **[Armageddon](https://github.com/Lax3n/Armageddon)** — Modular Python toolkit: LAN scanning, DNS mapping, ports & IP geolocation
 
 ---
 
