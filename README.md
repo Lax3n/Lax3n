@@ -7,7 +7,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Student+in+Mathematics%2C+Economics+and+Computer+Science;&font=Fira%20Code&center=true&width=1080&height=45&color=1F6FEB&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Student+in+Mathematics%2C+Engineering;&font=Fira%20Code&center=true&width=1080&height=45&color=1F6FEB&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -28,11 +28,13 @@
 ### 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Rust](https://img.shields.io/badge/-Rust-333?style=flat&logo=rust)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwindcss)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
+![Rust](https://img.shields.io/badge/-Rust-333?style=flat&logo=rust)
 ![Tokio](https://img.shields.io/badge/-Tokio-333?style=flat&logo=rust)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![Azure](https://img.shields.io/badge/-azure-333?style=flat&logo=azure)
+
+
 
 ---
 
@@ -44,14 +46,12 @@
 
 ### 🚀 Projects I'm proud of
 
-- 🔐 **Smart Proxy Auth System** — HTTP/S proxy infra with Rust, Python & MongoDB, React front-end  
-- 🛒 **[MonetizeFast](https://monetizefa.st/)** — Ultra-fast Stripe + MongoDB buy system for monetized Discord tools  
-- 🛰 **[Proxyy.tech](https://proxyy.tech/)** — API-powered proxy generation & distribution platform  
-- 🧠 **Compression on MNIST** — 2D projection with PCA/t-SNE for image reconstruction & clustering  
-- 📊 **Operations Research Toolkit** — simplex, transport & flow optimization problems (Python)  
-- 🤖 **Discord Bots Suite** — Custom Discord bots for scraping & alerts (e.g., SNCF train status)  
+- 🛰 **[Proxyy.tech](https://proxyy.tech/)** — Rust Proxies that's auto deploy new IPs with demands, enable cost reduction by 64% on Azure
+- 📊 **[Proxies Tester (Fork)](https://github.com/Vital-Proxies/proxy-tester/pull/5)** — Upgrade of a company based mesurement tools to calculate every latency during a proxies connexion (raw socket)
+- 💳 **Tual** — Enable Visa Virtual credit card creation (unlimited), with or without 3DS authorisation for the reselling space
+- 🧠 **Compression on MNIST** — 2D projection with PCA/t-SNE for image reconstruction & clustering
+- 🤖 **Discord Bots Suite** — Custom Discord bots for scraping & alerts (e.g., SNCF train status, WhatsApp scraping AI powered)  
 - 📆 **AppointmentExchange** — Automated bot to find and trade appointments (Python + Selenium)  
-- 📉 **SolanaTracker** — Live Solana wallet & price tracking with alerts  
 - 💥 **Armageddon** — Modular Python toolkit for network reconnaissance & diagnostics → Includes LAN scanning, DNS mapping, port analysis, IP geolocation & Discord bot alerts
 
 ---
@@ -66,9 +66,8 @@
 
 ### 🧠 What I'm learning now
 
-- Reinforcement learning and algorithmic game theory
-- Advanced system design with Rust & async APIs
-- Modern frontend stacks (Framer Motion, shadcn/ui)
+- Advanced system requests (wreq) with Rust & Fingerprinting 
+- Reverse engineering AntiBot systems as Datadome, CloudFlare 
 
 ---
 
