@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://github.com/Lax3n">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I'm+Alexandre;Mathematics+Student+%7C+Engineer+%7C+Dev;Rust+%26+Python+Enthusiast;&font=Fira%20Code&center=true&width=1080&height=45&color=1F6FEB&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+👋,+I'm+Alexandre;Mathematics+Student+%7C+Engineer+%7C+Dev;Rust+%26+Python+Enthusiast;&font=Fira%20Code&center=true&width=1080&height=45&color=1F6FEB&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
+
 
 ---
 
