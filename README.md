@@ -44,6 +44,7 @@
 ### ⭐ Repo Stats
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/github/stars/Lax3n?color=yellow&logo=star&logoColor=white&style=for-the-badge&label=Stars"/>
+  
   <img src="https://custom-icon-badges.demolab.com/github/followers/Lax3n?color=blue&logo=person-add&style=for-the-badge&label=Followers"/>
 </p>
 
