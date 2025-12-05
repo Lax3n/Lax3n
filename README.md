@@ -54,9 +54,7 @@
 
 - 🛰 **[Proxyy.tech](https://proxyy.tech/)** — Rust-based Proxies auto-deploying IPs with demand → **-64% costs on Azure**
 - 📊 **[Proxy Tester (Fork)](https://github.com/Vital-Proxies/proxy-tester/pull/5)** — Latency measurement on raw sockets  
-- 💳 **Tual** — Virtual Visa Cards (with/without 3DS), unlimited for reselling  
 - 🧠 **[Compression on MNIST](https://github.com/Lax3n/CompressionDecompressionML)** — 2D projection with PCA/t-SNE for clustering
-- 🔄 **AWS Auto-Updater for AntiBot** — Automated update system deployed on AWS to continuously patch & upgrade an anti-bot script in production
 - 🤖 **Discord Bots Suite** — Scraping & alerts (SNCF train status, WhatsApp AI scraping with [Mistral AI](https://mistral.ai/))  
 - 📆 **AppointmentExchange** — Automated bot to find & swap restaurant appointments  
 - 💥 **[Armageddon](https://github.com/Lax3n/Armageddon)** — Modular Python toolkit: LAN scanning, DNS mapping, ports & IP geolocation
@@ -69,7 +67,6 @@
 - Reverse engineering **AntiBot systems** (Datadome, Cloudflare)  
 - **Cloud-native automation** → Auto-updaters & CI/CD pipelines (AWS Lambda, Azure Functions)  
 - **High-performance networking** with Rust & Tokio (async proxies, caching, fingerprint-resilient requests)  
-- **FinTech APIs** → Virtual cards integration & 3DS flows  
 - **Applied Machine Learning** → Clustering & anomaly detection for security and performance monitoring  
 
 
