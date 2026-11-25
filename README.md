@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Lax3n">
-    <img src="https://readme-typing-svg.demolab.com?lines=Hi+there+👋,+I'm+Alexandre;Founder+%40+TornadoAPI;MSc+Mathematical+Engineering;Rust+%26+Python+%7C+I+love+to+code;&font=Fira%20Code&center=true&width=1080&height=45&color=1F6FEB&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?lines=Hi+there+%F0%9F%91%8B%2C+I%27m+Alexandre;Founder+%40+TornadoAPI;MSc+Mathematical+Engineering;Rust+%26+Python+%7C+I+love+to+code&font=Fira%20Code&center=true&width=1080&height=45&color=1F6FEB&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
