@@ -158,7 +158,7 @@
           data-testid="lang-progress"
           x="185.04000000000002"
           y="0"
-          width="39.58"
+          width="39.6"
           height="8"
           fill="#3178c6"
         />
@@ -166,9 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="224.62"
+          x="224.64000000000001"
           y="0"
-          width="10.71"
+          width="10.7"
           height="8"
           fill="#DA5B0B"
         />
@@ -176,7 +176,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="235.33"
+          x="235.34"
           y="0"
           width="17.68"
           height="8"
@@ -186,7 +186,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="243.01000000000002"
+          x="243.02"
           y="0"
           width="13.33"
           height="8"
@@ -196,7 +196,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.34000000000003"
+          x="246.35000000000002"
           y="0"
           width="12.52"
           height="8"
@@ -206,7 +206,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.86000000000004"
+          x="248.87000000000003"
           y="0"
           width="11.129999999999999"
           height="8"
@@ -226,14 +226,14 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust 31.42%
+        Rust 31.41%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 15.83%
+        TypeScript 15.84%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
